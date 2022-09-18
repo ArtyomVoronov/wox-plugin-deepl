@@ -1,0 +1,12 @@
+{
+  "ID": "6866B01A3CD0463E9AA0D40A57741E5B",
+  "ActionKeyword": "dl",
+  "Name": "DeepL",
+  "Description": "DeepL translation",
+  "Author": "Artem Voronov",
+  "Version": "1.0.4",
+  "Language": "csharp",
+  "Website": "https://github.com/ArtyomVoronov/wox-plugin-deepl",
+  "IcoPath": "deepl_logo.png",
+  "ExecuteFileName": "Wox.Plugin.DeepL.dll"
+}
